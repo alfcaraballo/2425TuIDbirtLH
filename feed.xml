@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+  <rss version="2.0"> 
+   <channel> 
+       <title>Canal</title> 
+       <link>index.html</link> 
+       <description>Este es un archivo RSS</description> 
+       
+       <item> 
+          <title>Primera Noticia</title> 
+          <link>Imagenes/Cebiche.jpg</link> 
+          <description>Noticia uno Actualidad de hoy</description> 
+       </item>
+
+       <item> 
+          <title>Segunda Noticia</title> 
+          <link>Imagenes/pizza.jpg</link> 
+          <description>Noticia dos - Ultimos sucesos del mes</description> 
+       </item> 
+
+    </channel>   
+  </rss> 
