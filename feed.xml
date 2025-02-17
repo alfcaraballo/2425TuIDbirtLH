@@ -8,14 +8,14 @@
         <item> 
             <title>Primera Noticia</title> 
             <link>carta.html</link> 
-            <description>Noticia uno Actualidad de hoy</description> 
+            <description>Noticia de la carta actual de hoy</description> 
             <pubDate>Mon, 17 Feb 2025 09:15:00 GMT</pubDate>
         </item>
 
         <item> 
             <title>Segunda Noticia</title> 
             <link>envio.html</link> 
-            <description>Noticia dos - Ultimos sucesos del mes</description> 
+            <description>Noticia dos - Ultimos sucesos de envio del mes</description> 
             <pubDate>Mon, 17 Feb 2025 09:30:00 GMT</pubDate>
         </item> 
 
