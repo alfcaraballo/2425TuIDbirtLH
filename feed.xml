@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8" ?> 
-  <rss version="2.0"> 
-   <channel> 
-       <title>Canal</title> 
-       <link>index.html</link> 
-       <description>Este es un archivo RSS</description> 
-       
-       <item> 
-          <title>Primera Noticia</title> 
-          <link>Imagenes/Cebiche.jpg</link> 
-          <description>Noticia uno Actualidad de hoy</description> 
-       </item>
+<rss version="2.0"> 
+    <channel> 
+        <title>Canal</title> 
+        <link>index.html</link> 
+        <description>Este es un archivo RSS</description> 
+        
+        <item> 
+            <title>Primera Noticia</title> 
+            <link>carta.html</link> 
+            <description>Noticia uno Actualidad de hoy</description> 
+            <pubDate>Mon, 17 Feb 2025 09:15:00 GMT</pubDate>
+        </item>
 
-       <item> 
-          <title>Segunda Noticia</title> 
-          <link>Imagenes/pizza.jpg</link> 
-          <description>Noticia dos - Ultimos sucesos del mes</description> 
-       </item> 
+        <item> 
+            <title>Segunda Noticia</title> 
+            <link>envio.html</link> 
+            <description>Noticia dos - Ultimos sucesos del mes</description> 
+            <pubDate>Mon, 17 Feb 2025 09:30:00 GMT</pubDate>
+        </item> 
 
     </channel>   
-  </rss> 
+</rss>
